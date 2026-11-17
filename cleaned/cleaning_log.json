@@ -1,0 +1,12 @@
+{
+  "total_rows_before": 3693,
+  "total_rows_removed": 280,
+  "total_rows_after": 3413,
+  "removal_counts": {
+    "downtime_hours>30": 138,
+    "repair_duration_hours>20": 90,
+    "maintenance_cost>5000": 5,
+    "parts_replaced_count>5": 66,
+    "availability_rate<0.5": 107
+  }
+}

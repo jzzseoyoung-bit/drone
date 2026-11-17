@@ -1,0 +1,5 @@
+{
+  "fault_count_last_30d": "지난 30일 동안 동일 장비에 기록된 고장(fault_category) 수",
+  "days_since_last_fault": "현재 정비일 기준, 이전 고장일과의 일수 차이 (고장이 없으면 NaN)",
+  "flight_hours_since_last_preventive": "최근 예방정비(maintenance_type='예방정비') 이후 누적 운용시간 차이 (cumulative_operating_hours 사용)"
+}
