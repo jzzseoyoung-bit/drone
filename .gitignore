@@ -1,0 +1,9 @@
+﻿# 비밀·데이터베이스 파일 – Git에 커밋되지 않게 함
+.streamlit/secrets.toml
+data/app.db
+# Python 캐시·컴파일 파일
+__pycache__/
+*.pyc
+# 출력·임시 파일
+*.csv
+*.md
