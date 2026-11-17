@@ -7,3 +7,5 @@ __pycache__/
 # 출력·임시 파일
 *.csv
 *.md
+
+.venv/
